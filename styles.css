@@ -30,7 +30,7 @@ float:left;
 border-right:1px solid #c0c0c0; 
 }
 
-.batomdecachorro li a{color:#fff; text-decoration:none; padding:5px 10px; display:block;}
+.batomdecachorro li a{color:#fff; text-decoration:none; display:block; height: 40px;}
  
 .batomdecachorro li a:hover{
 background:#601656; 

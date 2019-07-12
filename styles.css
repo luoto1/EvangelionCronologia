@@ -25,7 +25,7 @@ body{
 .batomdecachorro li{
 background: #333 ;
 color: #fff ;
-position:relative; 
+position: 100%; 
 float:left; 
 border-right:1px solid #c0c0c0; 
 }

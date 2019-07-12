@@ -8,5 +8,7 @@ body{
  		background-image: url(/imgs/bg.jpg) ;
  		background-attachment: fixed;
  		background-position: center center ;
-        padding: 200px ;
+        padding-left: 200px ;
+        padding-right: 200px ;
+        padding-top: 10px ;
  	}

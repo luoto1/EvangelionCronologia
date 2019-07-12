@@ -1,4 +1,9 @@
 
+head{
+	margin-left: 200px;
+	margin-right: 200px ;
+}
+
 body{
  		background-image: url(/imgs/bg.jpg) ;
  		background-attachment: fixed;

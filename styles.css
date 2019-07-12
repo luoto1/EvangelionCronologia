@@ -15,13 +15,11 @@ body{
 
  ul {
  	list-style-type: none ;
- 	margin-left: 150px ;
- 	margin-right: 150px ;
  	overflow: hidden ;
  	background-color: #333 ;
  	position: fixed;
  	top: 0 ;
- 	width: 340px ;
+ 	height: 40px ;
  }
 
  li {

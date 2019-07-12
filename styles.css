@@ -12,3 +12,25 @@ body{
         padding-right: 150px ;
         padding-top: 10px ;
  	}
+
+ ul {
+ 	list-style-type: none ;
+ 	overflow: hidden ;
+ 	background-color: #333 ;
+ 	position: fixed;
+ 	top: 0 ;
+ 	width: 100% ;
+ }
+
+ li {
+ 	float: left;
+ 	border-right: 1px solid #bbb ;
+ }
+
+ li a{
+ 	width: 60px ;
+ }
+
+.active {
+	background-color: #721bb3
+}

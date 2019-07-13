@@ -27,6 +27,10 @@ nav{
 	margin: 0 ;
 }
 
+.batomdecachorro {
+	width: 100%
+}
+
 .batomdecachorro li {
 	display: inline;
 	float: left;

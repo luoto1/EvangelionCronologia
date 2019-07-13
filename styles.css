@@ -22,9 +22,14 @@ h1{
 	text-align: left ;
 }
 
+nav{
+	width: 100%;
+	margin: 0 ;
+    padding: 0 ;
+}
 
 .batomdecachorro {
-	width: 100% ;
+	width: 100%
 	margin: 0 ;
 	padding: 0 ;
 }
@@ -32,7 +37,7 @@ h1{
 .batomdecachorro li {
 	display: inline;
 	float: left;
-	width: 100% ;
+	width: 100%
 	margin: 0 ;
 	padding: 0 ;
     border-right: 1px solid #bbb;
@@ -42,8 +47,8 @@ h1{
 	display: block;
 	padding: 8px ;
 	background-color: #333 ;
-	height: 40px ;
-	width: 100% ;
+	height: 40px
+	width: 100%
 	margin: 0 ;
 	padding: 0 ;
 }
@@ -53,7 +58,7 @@ h1{
 	margin: 0 ;
 	padding: 0 ;
 	overflow: hidden ;
-	width: 100% ;
+	width: 100%
 }
 
 .batomdecachorro li a {
@@ -76,4 +81,9 @@ h1{
 
 .active {
 	background-color: #3c0975 ;
+}
+
+.cuzin {
+	width: 100% ;
+	margin: 0;
 }

@@ -31,11 +31,10 @@ h1{
 .batomdecachorro a{
 	display: block;
 	padding: 8px ;
-	background-color: #3c0975 ;
+	background-color: #333 ;
 }
 
 .batomdecachorro ul {
-	background-color: #333 ;
 	list-style-type: none ;
 	margin: 0 ;
 	padding: 0 ;
@@ -44,9 +43,14 @@ h1{
 
 .batomdecachorro li a {
 	display: block;
+	font-family: Lato ;
 	color: white ;
 	text-align: center;
 	padding: 10px 10px ;
 	text-decoration: none ;
+	hover: #3c0975 ;
 }
 
+.batomdecachorro li a:hover {
+  background-color: #3c0975;
+}

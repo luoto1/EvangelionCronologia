@@ -32,7 +32,7 @@ h1{
 	display: block;
 	padding: 8px ;
 	background-color: #333 ;
-	height: 100px
+	height: 50px
 }
 
 .batomdecachorro ul {
@@ -45,6 +45,7 @@ h1{
 .batomdecachorro li a {
 	display: block;
 	font-family: Lato ;
+	font-size: 50pt
 	color: white ;
 	text-align: center;
 	padding: 10px 10px ;

@@ -22,38 +22,3 @@ h1{
 	text-align: left ;
 }
 
-.batomdecachorro{
-	background-color: #fff ;
-	list-style:none;
-    float:left;
-    margin: 0 ;
-    padding: 0 ;
-    overflow: hidden;
-    height: 70px ;
-    color: #fff ;
-}
-
-.batomdecachorro li{
-background: #333 ;
-color: #fff ;
-position: relative; 
-float:left; 
-border-right:1px solid #c0c0c0; 
-display: inline;
-}
-
-.batomdecachorro li a{
-	color:#fff; 
-	text-decoration:none;
-	display:block; 
-	height: 40px; 
-	font-family: lato ; 
-	text-align: center;
-	font-size: 20pt ;
-	padding: 10px ;
-}
- 
-.batomdecachorro li a:hover{
-background:#601656; 
-color:#fff;
-}

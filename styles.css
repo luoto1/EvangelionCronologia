@@ -31,15 +31,15 @@ h1{
 .batomdecachorro a{
 	display: block;
 	padding: 8px ;
-	background-color: #262626 ;	
+	background-color: #3c0975 ;
 }
 
 .batomdecachorro ul {
-	background-color: #3c0975 ;
+	background-color: #333 ;
 	list-style-type: none ;
 	margin: 0 ;
 	padding: 0 ;
-	overflow: #262626 ;
+	overflow: hidden ;
 }
 
 .batomdecachorro li a {

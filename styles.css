@@ -1,64 +1,51 @@
-
-{
-	padding-left: 200px ;
-	padding-right: 200px ;
-}
-
 body{
- 		background-image: url(/imgs/bg.jpg) ;
+ 		background-image: url(imgs/bg.jpg) ;
  		background-attachment: fixed;
  		background-position: center center ;
-        padding-left: 150px ;
-        padding-right: 150px ;
         padding-top: 10px ;
-        font-family: arial, helvetica, lato sans-serif;
+        font-family: arial, helvetica, lato, sans-serif;
         font-size: 12px;
  	}
 
 h1{
 	font-family: Lato ;
-	color: black ;
-	background-color: white ;
-	text-align: left ;
+	color: white;
 }
 
 nav{
 	width: 100%;
-	margin: 0 ;
-    padding: 0 ;
+}
+
+.banner {
+	width: 340px;
+	height: 161px;
+}
+
+.banner img{
+	width: 100%;
 }
 
 .batomdecachorro {
-	width: 100%
-	margin: 0 ;
-	padding: 0 ;
+	width: 100%;
+	background-color: #333;
 }
 
 .batomdecachorro li {
 	display: inline;
 	float: left;
-	width: 100%
-	margin: 0 ;
-	padding: 0 ;
     border-right: 1px solid #bbb;
 }
 
 .batomdecachorro a{
-	display: block;
 	padding: 8px ;
-	background-color: #333 ;
-	height: 40px
-	width: 100%
-	margin: 0 ;
-	padding: 0 ;
+	background-color: #333;
+	height: 40px;
 }
 
 .batomdecachorro ul {
-	list-style-type: none ;
-	margin: 0 ;
-	padding: 0 ;
-	overflow: hidden ;
-	width: 100%
+	list-style-type: none;
+	overflow: hidden;
+	width: 100%;
 }
 
 .batomdecachorro li a {
@@ -77,13 +64,4 @@ nav{
 
 .batomdecachorro li a:active {
   background-color: #3c0975;
-}
-
-.active {
-	background-color: #3c0975 ;
-}
-
-.cuzin {
-	width: 100% ;
-	margin: 0;
 }

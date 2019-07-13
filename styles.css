@@ -22,3 +22,14 @@ h1{
 	text-align: left ;
 }
 
+.batomdecachorro li {
+	display: inline;
+	float: left;
+
+}
+
+.batomdecachorro a{
+	display: block;
+	padding: 8px ;
+	background-color: #262626 ;	
+}
